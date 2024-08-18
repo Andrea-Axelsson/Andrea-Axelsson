@@ -1,6 +1,6 @@
-# Välkommen till min GitHub-profil!
+![header](https://github.com/Andrea-Axelsson/Andrea-Axelsson/blob/main/Header2.png?raw=true)
 
-![header](https://github.com/Andrea-Axelsson/Andrea-Axelsson/blob/main/Header.png?raw=true)
+# Välkommen till min GitHub-profil!
 
 ## Om mig
 Hej! Jag studerar frontendutvecklare på folkuniversitetet och tar examen våren 2025. Jag brinner för webbutveckling och UX/UI design och älskar att utforska nya teknologier och skapa estetiskt tilltalande projekt.
