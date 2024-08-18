@@ -11,13 +11,16 @@ Hi! I'm studying frontend development at Folkuniversitetet and will graduate in 
 
 🚀Keep reading to see some of the projects I'm working on🚀
 
-## [Audiophile - E-commerce](https://github.com/Andrea-Axelsson/audiophile)
+## [Audiophile](https://github.com/Andrea-Axelsson/audiophile)
 ![Audiophile](https://github.com/Andrea-Axelsson/Andrea-Axelsson/blob/main/audiophile.png?raw=true)
+
+### E-commerce website project
 I built the Audiophile app with React, Redux, and Tailwind CSS, focusing on responsive design, cart management, and checkout validation.
 
 ## [Professional Portfolio](https://github.com/Andrea-Axelsson/portfolio-mars-2024)
 ![Portfolio](https://github.com/Andrea-Axelsson/Andrea-Axelsson/blob/main/portfolio-img.png?raw=true)
-My portfolio: a dive into creative web development with TypeScript, featuring unique designs and interactive animations for a dynamic experience.
+### My portfolio
+A dive into creative web development with TypeScript, featuring unique designs and interactive animations for a dynamic experience.
 
 ## Contact Me
 [LinkedIn](https://www.linkedin.com/in/axelsson-andrea/)
