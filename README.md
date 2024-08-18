@@ -16,7 +16,7 @@ Hi! I'm studying frontend development at Folkuniversitetet and will graduate in 
 I built the Audiophile app with React, Redux, and Tailwind CSS, focusing on responsive design, cart management, and checkout validation.
 
 ## [Professional Portfolio](https://github.com/Andrea-Axelsson/portfolio-mars-2024)
-![Portfolio](https://github.com/Andrea-Axelsson/Andrea-Axelsson/blob/main/portfolio-2024.png?raw=true)
+![Portfolio](https://github.com/Andrea-Axelsson/Andrea-Axelsson/blob/main/portfolio-img.png?raw=true)
 My portfolio: a dive into creative web development with TypeScript, featuring unique designs and interactive animations for a dynamic experience.
 
 ## Contact Me
