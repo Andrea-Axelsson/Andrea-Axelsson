@@ -1,16 +1,24 @@
-## Hi there 👋
+# Välkommen till min GitHub-profil!
 
-<!--
-**Andrea-Axelsson/Andrea-Axelsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://github.com/Andrea-Axelsson/Andrea-Axelsson/blob/main/Header.png?raw=true)
 
-Here are some ideas to get you started:
+## Om mig
+Hej! Jag studerar frontendutvecklare på folkuniversitetet och tar examen våren 2025. Jag brinner för webbutveckling och UX/UI design och älskar att utforska nya teknologier och skapa estetiskt tilltalande projekt.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 För närvarande lär jag mig **PHP och Wordpress**
+- 📫 Hur du når mig: [hello@andreaaxelsson.com](mailto:hello@andreaaxelsson.com)
+- ⚡ Rolig fakta: Jag gillar att lösa Rubik's kub på tid!
+
+## Mina projekt
+Här är några av mina projekt som jag har arbetat med:
+
+### [Audiophile - E-commerce](https://github.com/Andrea-Axelsson/audiophile)
+I built the Audiophile app with React, Redux, and Tailwind CSS, focusing on responsive design, cart management, and checkout validation.
+
+### [Professional Portfolio](https://github.com/Andrea-Axelsson/portfolio-mars-2024)
+My portfolio: a dive into creative web development with TypeScript, featuring unique designs and interactive animations for a dynamic experience.
+
+## Kontakta mig
+[LinkedIn](https://www.linkedin.com/in/axelsson-andrea/)
+
+
