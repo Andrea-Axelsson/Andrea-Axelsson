@@ -1,26 +1,23 @@
 ![header](https://github.com/Andrea-Axelsson/Andrea-Axelsson/blob/main/Header2.png?raw=true)
 
-# Välkommen till min GitHub-profil!
+# ✨Welcome to my GitHub Profile!✨
 
-## Om mig
-Hej! Jag studerar frontendutvecklare på folkuniversitetet och tar examen våren 2025. Jag brinner för webbutveckling och UX/UI design och älskar att utforska nya teknologier och skapa estetiskt tilltalande projekt.
+## About Me
+Hi! I'm studying frontend development at Folkuniversitetet and will graduate in spring 2025. I'm passionate about web development and UX/UI design, love exploring new technologies, and enjoy creating aesthetically pleasing projects.
 
-- 🌱 För närvarande lär jag mig **PHP och Wordpress**
-- 📫 Hur du når mig: [hello@andreaaxelsson.com](mailto:hello@andreaaxelsson.com)
-- ⚡ Rolig fakta: Jag gillar att lösa Rubik's kub på tid!
+- 🌱 Currently learning **PHP and WordPress**
+- 📫 How to reach me: [hello@andreaaxelsson.com](mailto:hello@andreaaxelsson.com)
+- 👀 Keeping an eye on: I'm following the development of AI and look forward to experimenting more with it.
 
-## Mina projekt
-Här är några av mina projekt som jag har arbetat med:
+🚀Keep reading to see some of the projects I'm working on🚀
 
-### [Audiophile - E-commerce](https://github.com/Andrea-Axelsson/audiophile)
+## [Audiophile - E-commerce](https://github.com/Andrea-Axelsson/audiophile)
 ![Audiophile](https://github.com/Andrea-Axelsson/Andrea-Axelsson/blob/main/audiophile.png?raw=true)
 I built the Audiophile app with React, Redux, and Tailwind CSS, focusing on responsive design, cart management, and checkout validation.
 
-### [Professional Portfolio](https://github.com/Andrea-Axelsson/portfolio-mars-2024)
+## [Professional Portfolio](https://github.com/Andrea-Axelsson/portfolio-mars-2024)
 ![Portfolio](https://github.com/Andrea-Axelsson/Andrea-Axelsson/blob/main/portfolio-2024.png?raw=true)
 My portfolio: a dive into creative web development with TypeScript, featuring unique designs and interactive animations for a dynamic experience.
 
-## Kontakta mig
+## Contact Me
 [LinkedIn](https://www.linkedin.com/in/axelsson-andrea/)
-
-
